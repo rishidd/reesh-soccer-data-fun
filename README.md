@@ -1,4 +1,4 @@
 # reesh-soccer-data-fun
 Some random soccer data stuff I may have done
 
-Hello World!
+To run locally, use `python3 -m main`
